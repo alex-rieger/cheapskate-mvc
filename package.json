@@ -1,0 +1,22 @@
+{
+  "name": "cheapskate-mvc",
+  "version": "1.0.0",
+  "description": "version 0.1.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alex-yo@bitbucket.org/alex-yo/micro-mvc-php.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/alex-yo/micro-mvc-php#readme",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.22.1",
+    "node-sass": "^4.10.0",
+    "normalize.css": "^8.0.1",
+    "sass-loader": "^7.0.1"
+  }
+}

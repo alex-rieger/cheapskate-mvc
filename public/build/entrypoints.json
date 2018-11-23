@@ -1,0 +1,18 @@
+{
+  "entrypoints": {
+    "scripts": {
+      "js": [
+        "/cheapskate-mvc/public/build/runtime.js",
+        "/cheapskate-mvc/public/build/scripts.js"
+      ]
+    },
+    "styles": {
+      "js": [
+        "/cheapskate-mvc/public/build/runtime.js"
+      ],
+      "css": [
+        "/cheapskate-mvc/public/build/styles.css"
+      ]
+    }
+  }
+}
