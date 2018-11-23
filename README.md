@@ -75,11 +75,8 @@ RewriteBase /budgie-mvc/public
 This project is still in its early stages. There's probably a lot of stuff to work on.
 
 ### things I'll do
-* TypeScript and VueJS support
+* VueJS support
     * add some basic components
-* configure Webpack
-    * this needs some work obviously
-    * versioning and asset management
 
 ### things I'll maybe do
 * add some command line tools to change the htaccess or something
@@ -90,3 +87,4 @@ This project is still in its early stages. There's probably a lot of stuff to wo
 
 ## Inspiration
 * Base idea from [codecourse.com](https://codecourse.com/)
+* Symfony guys
