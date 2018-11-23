@@ -43,13 +43,13 @@ Use the ```asset(styles.css)``` twig-function to include an asset from ```public
 You might have to change the ```.htaccess``` file in ```./public``` so url-rewriting works.
 Change this path to the path that comes after ```localhost:xxxx``` in your browser.
 ```
-RewriteBase /budgie-mvc/public
+RewriteBase /cheapskate-mvc/public
 ```
 ## Documentation
 
 ### Controllers
 * Controllers live in the ```controller``` directory
-* Extend your controllers with ```\BudgieMVC\AppController``` to inherit these methods:
+* Extend your controllers with ```\Cheapskate\AppController``` to inherit these methods:
     * ```$this->render('twig-template', templateDataArray, httpStatusCode)```
         * renders a twig template with data and sets the status code (default ```200```)
     * ```$this->inject('folder-name','class-name')```
