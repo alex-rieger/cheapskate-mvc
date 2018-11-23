@@ -19,7 +19,7 @@ hosting providers that only offer PHP, Apache and MySQL to keep hosting cost to 
 ### Cheapskate MVC comes without:
 * a webserver (it is made to be used on the before mentioned hosting providers)
 * the need to install any additional php extensions (you'll probably don't have the permissions anyway)
-* dependency injection (check whether ```inject``` method fits your needs)
+* a real dependency injection solution (check whether ```inject``` method fits your needs)
 * beautiful exception handling and error pages (use default php error warnings etc.)
 
 ## Developing with Cheapskate MVC 
